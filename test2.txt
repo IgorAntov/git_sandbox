@@ -5,4 +5,5 @@ u2ch2
 u2ch3
 u2ch5
 u2ch7
-u2r1c1
+u2r1
+u2r2
