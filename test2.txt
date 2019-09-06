@@ -8,3 +8,4 @@ u2ch7
 u2r1
 u2r2
 u2r2c1
+u2r2c2
