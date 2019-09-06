@@ -7,6 +7,11 @@ u2ch5
 u2ch7
 u2r1
 u2r2
+<<<<<<< HEAD
 
 my new changes user2 c1
 my new changes user2 c2
+=======
+u2r2c1
+u2r2c2
+>>>>>>> user2_rebase2
