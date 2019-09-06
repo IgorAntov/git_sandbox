@@ -4,6 +4,9 @@ u2ch4
 u1ch2
 u1ch6
 u1ch7
+<<<<<<< HEAD
 u1ch8
 
 my new branch user1
+=======
+>>>>>>> f8d137a... changes from u1
